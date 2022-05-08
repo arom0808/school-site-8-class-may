@@ -1,0 +1,9 @@
+.startButton{
+}
+
+.startButtonImage{
+}
+
+.startButton:hover > .startButtonImage{
+    filter: invert(100%);
+}
